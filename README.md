@@ -7,7 +7,7 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 <p>-Linux Advanced Packaging Tool (APT) applications</p>
 <p>-GUI versus CLI usage</p>
 <p>-CLI commands:</p>
-<p>--display strings (echo)</p>
+<p>--display strings (echo, clear)</p>
 <p>--arithmetic (expr, and arithmetic operators)</p>
 <p>--install, remove, and verify cybersecurity tools (as sudo user with apt command, install, remove, …list --installed)</p>
 <p>--traverse the file directory tree (cd)</p>
