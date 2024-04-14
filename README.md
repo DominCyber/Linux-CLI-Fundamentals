@@ -23,5 +23,27 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 <p>-Coursera Google Cybersecurity Professional Certificate Course</p>
 
 ### Steps
-<img src="" style="width: 85%;" alt="1">
+<img src="https://i.imgur.com/aqQhVo1.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 1:</i></p>
+<img src="https://i.imgur.com/DAPph5y.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 2:</i></p>
+<img src="https://i.imgur.com/mRYbdCT.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 3:</i></p>
+<img src="https://i.imgur.com/0wHEBaa.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 4:</i></p>
+<img src="https://i.imgur.com/15kQpqy.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 5:</i></p>
+<img src="https://i.imgur.com/cWqWQxj.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 6:</i></p>
+<img src="https://i.imgur.com/cv9bZIe.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 7:</i></p>
+<img src="https://i.imgur.com/aX4ry5q.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 8:</i></p>
+<img src="https://i.imgur.com/3ENqVs9.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 9:</i></p>
+<img src="https://i.imgur.com/pxOyuUB.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 10:</i></p>
+<img src="https://i.imgur.com/UIcEv6v.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 11:</i></p>
+<img src="https://i.imgur.com/swSUwZz.jpg" style="width: 85%;" alt="1">
+<p><i>Ref 12:</i></p>
