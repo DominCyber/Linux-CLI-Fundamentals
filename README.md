@@ -20,7 +20,7 @@ The Coursera Google Cybersecurity Professional Certification Course work provide
 
 ### Tools Used
 -Laptop
-<p>-Coursera Google Cybersecurity Professional Certificate Course</p>
+<p>-Coursera Google Cybersecurity Professional Certification Course</p>
 
 ### Steps
 <img src="https://i.imgur.com/aqQhVo1.jpg" style="width: 65%;" alt="1">
