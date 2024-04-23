@@ -1,6 +1,6 @@
 # Linux CLI Fundamentals
 ## Objective
-The Coursera Google Cybersecurity Professional Certificate Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with Linux CLI fundamentals. Specifically, this project explores Linux CLI commands that display strings; arithmetic; install, remove, and verify cybersecurity tools; traverse the file directory tree; list directory files; display file content; specific string search within a file; command passing with piping; directory  creation and removal; and file creation and removal.
+The Coursera Google Cybersecurity Professional Certification Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with Linux CLI fundamentals. Specifically, this project explores Linux CLI commands that display strings; arithmetic; install, remove, and verify cybersecurity tools; traverse the file directory tree; list directory files; display file content; specific string search within a file; command passing with piping; directory  creation and removal; and file creation and removal.
 
 ### Skills Learned
 -Linux distribution architecture (user, applications, CLI shell, filesystem hierarchy standard, kernal, and hardware)
